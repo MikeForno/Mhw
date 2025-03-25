@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    outline: 2px solid red;
+}
+
+h1 {
+    color: skyblue;
+    text-align: center;
+}
+
+.Box1 {
+    display: flex;
+    
+    width: 100%;
+}
+
+.Great {
+    width: 50%;
+    outline: 2px solid yellow;
+    color: skyblue;
+    
+}
+
+.Jagras {
+    width: 95%;
+}
