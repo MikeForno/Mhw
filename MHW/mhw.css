@@ -15,12 +15,21 @@ h1 {
 }
 
 .Great {
-    width: 50%;
+    width: 45%;
     outline: 2px solid yellow;
     color: skyblue;
     
 }
 
 .Jagras {
+    width: 95%;
+}
+
+.Pukei {
+    width: 50%;
+    outline: 2px solid green;
+    color: skyblue;
+}
+.Puki {
     width: 95%;
 }
