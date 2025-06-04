@@ -8,10 +8,19 @@ h1 {
     text-align: center;
 }
 
+p {
+    color: skyblue;
+    text-align: center;
+}
+
 #monster-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+.monstas {
+    width: 30%;
 }
 
 .Box1 {
@@ -21,7 +30,7 @@ h1 {
 }
 
 .Great {
-    width: 45%;
+    width: 40%;
     outline: 2px solid yellow;
     color: skyblue;
     
@@ -32,10 +41,56 @@ h1 {
 }
 
 .Pukei {
-    width: 50%;
+    width: 40%;
     outline: 2px solid green;
     color: skyblue;
 }
 .Puki {
+    width: 95%;
+}
+
+.Kulu {
+    width: 40%;
+    outline: 2px solid grey;
+    color: skyblue;
+}
+
+.KuluYa {
+    width: 95%;
+}
+
+.Anja {
+    width: 40%;
+    outline: 2px solid red;
+    color: skyblue;
+}
+
+.Anji {
+    width: 95%;
+}
+
+.box2 {
+    display: flex;
+
+    width: 100%;
+}
+
+.Barroth {
+    width: 40%;
+    outline: 2px solid brown;
+    color: skyblue;
+}
+
+.Barro {
+    width: 95%;
+}
+
+.Jyura {
+    width: 40%;
+    outline: 2px solid burlywood;
+    color: skyblue;
+}
+
+.Jyuratodus {
     width: 95%;
 }
